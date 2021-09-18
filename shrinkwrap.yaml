@@ -921,3 +921,5 @@ specifiers:
   path: ^0.12.7
   quick.db: 'github:truexpixels/quick.db'
   sequelize: ^5.21.5
+  
+  
